@@ -1,0 +1,1 @@
+# unity-cookbook-2023-ch03-06-inventory-slot-scripted-component
